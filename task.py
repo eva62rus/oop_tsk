@@ -1,3 +1,4 @@
+# task Human
 class Human:
     default_name = 'Victor'
     default_age = 25
